@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<mod name="olddeflight" global_key="olddeflight">
+	<wren>
+		<init file="main"/>
+    </wren>
+	<tweak definition="xml/layers.diesel_layers"/>
+	<tweak definition="deferred_postprocessor_tweak.xml"/>
+	<tweak definition="defaultrendertemplates_tweak.xml"/>
+</mod>
