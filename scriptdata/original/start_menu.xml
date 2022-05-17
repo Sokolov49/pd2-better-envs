@@ -1,0 +1,5 @@
+<table>
+    <menu search="menu;id='start_menu'">
+		<node align_line="0.75" gui_class="MenuNodeMainGui" menu_components="player_profile main_menu menuscene_info" modifier="MenuPSNPlayerProfileInitiator" name="main" scene_state="standard" stencil_align="center" stencil_image="bg_startscreen" sync_state="main_menu" topic_id="menu_main_menu" use_info_rect="false"/>
+    </menu>
+</table>
